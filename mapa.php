@@ -61,7 +61,7 @@ include_once("header.html");
                 });
             }
         </script>
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBDaeWicvigtP9xPv919E-RNoxfvC-Hqik&callback=initMap"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=your_key=initMap"></script>
     <!---------------------------------------------------------------------------------->
     <?php
     include_once("footer.html");
